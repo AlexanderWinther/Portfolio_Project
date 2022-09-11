@@ -1,0 +1,26 @@
+html {background-color: white}
+
+/* Headline */
+h1 {display: flex; justify-content: space-evenly; font-family: monospace; color: black}
+hr {border-top:3px solid black}
+hr {width: 1400px}
+
+
+/* Section */
+.type-a {color: lightslategray;background-color:papayawhip;height:800px}
+h2 {font-size: xx-large; font-family: serif}
+
+
+/* Description of me and image */
+.box {display: flex;
+    align-items: center; background-color: lightyellow; height: 300px}
+span {font-size:x-large; font-family: monospace; color: black}
+img {margin-top: 350px}
+
+/* Points */
+h3 {font-size: xx-large; font-family: monospace}
+ul {font-size: xx-large; font-family: monospace}
+
+/* Footer */
+footer {color: black}
+
